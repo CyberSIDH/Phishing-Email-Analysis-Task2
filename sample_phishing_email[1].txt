@@ -1,0 +1,24 @@
+From: support@secure-paypals.com
+To: victim@example.com
+Subject: [Action Required] Unauthorized Access Detected on Your PayPal Account
+Reply-To: security-update@paypals-verification-center.com
+Date: Tue, 14 May 2024 10:22:05 +0000
+
+Dear Valued Customer,
+
+We have detected suspicious login attempts on your PayPal account from an unrecognized device in Russia (IP: 85.143.27.99).
+
+For your security, we have temporarily restricted access to your account until the verification process is complete.
+
+Please verify your account activity immediately by clicking the button below. This is necessary to protect your information and restore full access.
+
+Failure to complete the verification process within 24 hours may result in permanent suspension of your PayPal account.
+
+[Verify My Account Now](http://secure-paypal-security-check.info/verify)
+
+Attachment: Account_Review_Details.zip
+
+Thank you for helping us keep your account secure.
+
+– PayPal Security Team
+https://www.paypal.com
